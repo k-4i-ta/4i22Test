@@ -2,3 +2,4 @@
 ### PAI
 test Github
 #### Byłem tu ~~ Szymon
+### przybyłem, zobaczyłem, readme zmieniłem - Bartek
